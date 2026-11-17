@@ -31,7 +31,7 @@ int main() {
                 do {
                     counter = counter + 1;
                     factorialAnswer = factorialAnswer * counter;
-                    std::cout << "Tracking " << counter << ;
+                    std::cout << "Tracking " << counter;
                     std::cout << "times through loop.\n";
                 } while (counter < userNumInt);
             } else {
