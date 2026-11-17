@@ -33,8 +33,8 @@ int main() {
                     factorialAnswer = factorialAnswer * counter;
                     std::cout << "Tracking " << counter;
                     std::cout << " times through loop.\n";
-                    std::cout << userNumInt << "! = " << factorialAnswer << ".\n";
                 } while (counter < userNumInt);
+                std::cout << userNumInt << "! = " << factorialAnswer << ".\n";
             } else {
                 std::cout << userNumStr << " is not a positive whole number.\n";
             }
