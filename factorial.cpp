@@ -1,6 +1,6 @@
 // Copyright (c) 2026 Lennon Cehajic All rights reserved.
 // Created by: Lennon Cehajic
-// Date: November 13th, 2026
+// Date: November 12th, 2026
 // This program calculates the factorial of a whole number.
 
 #include <iostream>
